@@ -1,0 +1,47 @@
+{
+  "room":                     "wesselgame",
+  "author":                   "maintained by wesseltip, custom RCS by TheBanHammer",
+  "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css?v=1",
+  "rules": {
+      "allowAutorespond":     true,
+      "allowAutowoot":        true,
+      "allowAutojoin":        true,
+      "allowAutograb":        true,
+      "allowSmartVote":       true,
+      "allowEmotes":          true,
+      "allowShowingMehs":     true,
+      "forceSmartVote":       false
+  },
+  "ccc": {
+      "admin":                null,
+      "ambassador":           null,
+      "host":                 "#87449c",
+      "cohost":               "#87449c",
+      "manager":              "#7854a9",
+      "bouncer":              "#626cbc",
+      "rdj":                  "#547bc9",
+      "subscriber":           null,
+      "friend":               null,
+      "user":                 null
+  },
+  "images": {
+      "background":           "https://cdn.radiant.dj/rcs/bg/2k15nyc.jpg",
+      "playback":             null,
+      "admin":                "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Admin.png",
+      "ambassador":           "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_BA.png",
+      "host":                 "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Host.png",
+      "cohost":               "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_CoHost.png",
+      "manager":              "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Manager.png",
+      "bouncer":              "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Bouncer.png",
+      "rdj":                  "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_RDJ.png",
+      "subscriber":           null
+  },
+  "autocomplete": {
+      "!about": 0,
+      "!skip": 0
+    },
+  "emotes": {
+      "pusheensleep":                 "https://i.imgur.com/j1pEPMP.gif",
+      "soontm":                       "https://i.imgur.com/faB1op4.png"
+  }
+}
